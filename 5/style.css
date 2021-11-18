@@ -1,0 +1,24 @@
+.div_menu {
+    background-color: black;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+a.menu:link {
+    color: white;
+}
+
+.slider-div {
+    text-align: center;
+    margin-top: 10px;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
